@@ -1,0 +1,17 @@
+h1.intro{
+  color: red;
+
+}
+
+h2.intro{
+  color: darkred;
+  font-style: italic;
+}
+
+p.intro{
+  font-weight: bolder;
+}
+
+img.intro{
+  margin: 50px;
+}
